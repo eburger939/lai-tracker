@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS lai_db;
+
+CREATE DATABASE lai_db;
